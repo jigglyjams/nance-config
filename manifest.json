@@ -1,10 +1,14 @@
 {
   "orgs": {
     "dev": {
-      "enabled": "true"
+      "enabled": "true",
+      "config": "config.json",
+      "calendar": "calendar.ics"
     },
     "jbdao": {
-      "enabled": "true"
+      "enabled": "true",
+      "config": "config.json",
+      "calendar": "calendar.ics"
     }
   }
 }
