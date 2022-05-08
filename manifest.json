@@ -1,0 +1,10 @@
+{
+  "orgs": {
+    "dev": {
+      "enabled": "true"
+    },
+    "jbdao": {
+      "enabled": "true"
+    }
+  }
+}
