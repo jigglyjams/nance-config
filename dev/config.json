@@ -8,12 +8,12 @@
     "voteNoEmoji": "👎",
     "voteGoVoteEmoji": "🗳",
     "voteCanceledEmoji": "❌",
-    "minYesVotes": 10,
+    "minYesVotes": 1,
     "yesNoRatio": 0.3
   },
   "snapshot": {
     "base": "https://snapshot.org/#",
-    "space": "jbdao.eth",
+    "space": "jigglyjams.eth",
     "choices": [
       "For",
       "Against",
