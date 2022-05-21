@@ -14,8 +14,8 @@
   "snapshot": {
     "base": "https://snapshot.org/#",
     "space": "jigglyjams.eth",
-    "choices": ['For', 'Against', 'Abstain'],
-    "votingTimeDays": minutesToDays(10),
+    "choices": ["For", "Against", "Abstain"],
+    "votingTimeDays": 4,
     "quroum": 1,
     "passingRatio": 0.66
   },
