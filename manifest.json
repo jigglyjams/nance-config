@@ -5,12 +5,6 @@
       "config": "config.json",
       "calendar": "calendar.ics",
       "scheme": ["notion", "discord", "snapshot"]
-    },
-    "jbdao": {
-      "enabled": "true",
-      "config": "config.json",
-      "calendar": "calendar.ics",
-      "scheme": ["notion", "discord", "snapshot"]
     }
   }
 }
